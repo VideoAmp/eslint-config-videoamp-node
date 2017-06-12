@@ -1,0 +1,19 @@
+{
+  "name": "eslint-config-videoamp-node",
+  "version": "1.0.0",
+  "description": "VideoAmp's ESLint config for Node projects",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint ."
+  },
+  "repository": "git@github.com:VideoAmp/eslint-config-videoamp-node.git",
+  "author": "VideoAmp <geeks@videoamp.com>",
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "eslint": "^3.19.0"
+  },
+  "dependencies": {
+    "eslint-config-videoamp": "^3.0.0",
+    "eslint-plugin-node": "^5.0.0"
+  }
+}
