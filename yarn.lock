@@ -300,6 +300,12 @@ eslint-plugin-import@^2.3.0:
     minimatch "^3.0.3"
     read-pkg-up "^2.0.0"
 
+eslint-plugin-mocha@^4.10.1:
+  version "4.10.1"
+  resolved "https://registry.yarnpkg.com/eslint-plugin-mocha/-/eslint-plugin-mocha-4.10.1.tgz#c63ccb83933bdb01d2bef922332dc4c44b30f3f8"
+  dependencies:
+    ramda "^0.24.1"
+
 eslint-plugin-node@^5.0.0:
   version "5.0.0"
   resolved "https://registry.yarnpkg.com/eslint-plugin-node/-/eslint-plugin-node-5.0.0.tgz#948b1fb82e3f0a744e86fad19aa4f49537d246cc"
@@ -819,6 +825,10 @@ process-nextick-args@~1.0.6:
 progress@^1.1.8:
   version "1.1.8"
   resolved "https://registry.yarnpkg.com/progress/-/progress-1.1.8.tgz#e260c78f6161cdd9b0e56cc3e0a85de17c7a57be"
+
+ramda@^0.24.1:
+  version "0.24.1"
+  resolved "https://registry.yarnpkg.com/ramda/-/ramda-0.24.1.tgz#c3b7755197f35b8dc3502228262c4c91ddb6b857"
 
 read-pkg-up@^2.0.0:
   version "2.0.0"
