@@ -21,7 +21,10 @@ Add `"extends": "videoamp-node"` to your `.eslintrc`.
 
 ## Resources
 - [ESLint config docs](http://eslint.org/docs/user-guide/configuring#extending-configuration-files)
-<!-- TODO: Add dependencies here -->
+- [`eslint-plugin-node`](https://github.com/mysticatea/eslint-plugin-node)
+- [`eslint-plugin-unicorn`](https://github.com/sindresorhus/eslint-plugin-unicorn)
+- [`eslint-plugin-mocha`](https://github.com/lo1tuma/eslint-plugin-mocha)
+- [`eslint-plugin-security`](https://github.com/nodesecurity/eslint-plugin-security)
 
 ## Contributing
 You can make sure this module lints with itself using `yarn lint`.
